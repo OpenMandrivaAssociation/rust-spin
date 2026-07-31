@@ -5,8 +5,8 @@
 %global crate spin
 
 Name:           rust-%{crate}
-Version:        0.5.2
-Release:        2%{?dist}
+Version:        0.12.2
+Release:        1%{?dist}
 Summary:        Synchronization primitives based on spinning
 
 # Upstream license specification: MIT
